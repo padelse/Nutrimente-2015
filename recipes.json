@@ -1,0 +1,1094 @@
+{
+  "aliño-tomates": {
+    "name": "Aliño de tomates",
+    "ingredients": [
+      "Tomate",
+      "Aceite de oliva",
+      "Vinagre de manzana",
+      "Ajo"
+    ],
+    "preparation": "Condimentar al gusto. Cuidado con el aceite, sólo 1 cucharadita pequeña.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "arroz-integral": {
+    "name": "Arroz integral",
+    "ingredients": [
+      "Arroz integral"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "salteado-verduras-salmon": {
+    "name": "Salteado de verduras con salmón",
+    "ingredients": [
+      "Salmón",
+      "Brócoli",
+      "Calabacín",
+      "Zanahorias",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hervir al vapor la verdura. Hacer a la plancha el salmón, salpimentar y servir todo junto. El eneldo va muy bien con el salmón. La salsa de soja es buen acompañante, si puedes tomarla.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "crema-verduras": {
+    "name": "Crema de verduras",
+    "ingredients": [
+      "Patatas",
+      "Zanahorias",
+      "Puerros",
+      "Cebollas",
+      "Calabaza amarilla",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hervir todos los ingredientes y pasar por la batidora. Añadir el aceite una vez hervido. Hervir con poca agua para no tener que tirarla al final y batir todo, incluida el agua de cocción.",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "revuelto-setas": {
+    "name": "Revuelto de setas",
+    "ingredients": [
+      "Setas",
+      "Huevo",
+      "Aceite de oliva",
+      "Ajo",
+      "Albahaca",
+      "Pimienta"
+    ],
+    "preparation": "1 huevo + 1 clara de otro + cantidad libre de setas. Condimentar con ajo, pimienta y albahaca.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "macarrones-integrales-verduras": {
+    "name": "Macarrones integrales con verduritas",
+    "ingredients": [
+      "Pasta integral",
+      "Tomate",
+      "Pimiento",
+      "Cebollas",
+      "Aceite de oliva",
+      "Puerros",
+      "Zanahorias",
+      "Mejorana",
+      "Curry",
+      "Paprika",
+      "Pimienta"
+    ],
+    "preparation": "Cocer los macarrones, preferiblemente integrales, y elaborar una salsa con el resto de los ingredientes junto con mejorana, curry, paprika y pimienta. La pasta debe hervirse en bastante agua y, preferiblemente, quedar \"al dente\".",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "sopa-fideos": {
+    "name": "Sopa con fideos casera",
+    "ingredients": [
+      "Puerros",
+      "Zanahorias",
+      "Cebollas",
+      "Apio",
+      "Fideos",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hervir todos los ingredientes en una olla con agua y unas gotas de aceite de oliva virgen. Salpimentar. La verdura puede cortarse muy fina y dejarla en la sopa, o retirarla al final para hacer un puré. El cubito de caldo de verduras o pollo es opcional. Por último, añadir un puñado de fideos por persona.",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "ensalada-espinacas-gulas": {
+    "name": "Ensalada de espinacas con gulas",
+    "ingredients": [
+      "Gulas",
+      "Espinacas hojas",
+      "Aceite de oliva",
+      "Vinagre Balsámico de Módena",
+      "Ajo"
+    ],
+    "preparation": "Saltear las gulas con ajitos. Llenar un bol con las hojas de espinaca, verter las gulas calientes y añadir vinagre de Módena al gusto. Comer caliente.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "parrillada-verduras-romero": {
+    "name": "Parrillada de verduras con romero",
+    "ingredients": [
+      "Calabacín",
+      "Tomate",
+      "Berenjenas",
+      "Pimiento",
+      "Albahaca",
+      "Romero"
+    ],
+    "preparation": "Hacer la verdura a la parrilla/plancha con el mínimo aceite posible y aderezar con romero.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "merluza-plancha": {
+    "name": "Merluza a la plancha",
+    "ingredients": [
+      "Merluza",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "pure-calabaza": {
+    "name": "Puré de calabaza",
+    "ingredients": [
+      "Calabaza amarilla",
+      "Cebollas",
+      "Zanahorias",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hervir la calabaza con poca agua. Mezclar bien con los otros ingredientes, a fuego lento, hasta conseguir un puré.",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "hamburguesa-ternera": {
+    "name": "Hamburguesa de ternera a la plancha",
+    "ingredients": [
+      "Carne picada vacuno",
+      "Aceite de oliva"
+    ],
+    "preparation": "Condimentar al gusto. Utilizar con moderación la sal.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-mixta-atun": {
+    "name": "Ensalada mixta con atún",
+    "ingredients": [
+      "Mezclum de lechugas",
+      "Tomate",
+      "Zanahorias",
+      "Atún",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "mejillones-marinera": {
+    "name": "Mejillones hervidos a la marinera",
+    "ingredients": [
+      "Mejillones"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-brotes-tiernos": {
+    "name": "Ensalada de brotes tiernos",
+    "ingredients": [
+      "Mezclum de lechugas",
+      "Zanahorias",
+      "Tomate",
+      "Aceite de oliva"
+    ],
+    "preparation": "Aliñar con media cucharadita de aceite de oliva.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "pez-espada-plancha": {
+    "name": "Pez espada a la plancha",
+    "ingredients": [
+      "Pez espada (emperador)",
+      "Aceite de oliva"
+    ],
+    "preparation": "Salpimentar con moderación.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "wok-pollo-verduras": {
+    "name": "Wok de pollo con verduras",
+    "ingredients": [
+      "Pollo - pechuga",
+      "Pimiento",
+      "Calabacín",
+      "Cebollas",
+      "Zanahorias",
+      "Salsa de soja"
+    ],
+    "preparation": "Cortar la verdura en juliana. Procurar incluir pimientos verdes, rojos y amarillos. Saltear en una sartén muy caliente e incorporar el pollo cortado en trozos. Salpimentar y añadir salsa de soja al gusto.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "crema-calabacin": {
+    "name": "Crema de calabacín",
+    "ingredients": [
+      "Calabacín",
+      "Leche desnatada",
+      "Puerros",
+      "Patatas",
+      "Cebollas",
+      "Aceite de oliva"
+    ],
+    "preparation": "Cocer los ingredientes y batirlo todo junto. El agua, el aceite y una pizca de sal sirven para elaborar la crema. La leche puede sustituirse por una alternativa sin lactosa para quienes no la toleren.",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "picoteo-embutido-queso": {
+    "name": "Picoteo de embutido y queso Nutrimente",
+    "ingredients": [
+      "Queso de Burgos",
+      "Pechuga de pavo embutido"
+    ],
+    "preparation": "3-4 lonchas de embutido y 1 envase individual de quesito de Burgos.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "lentejas-estofadas": {
+    "name": "Lentejas estofadas Nutrimente",
+    "ingredients": [
+      "Lentejas",
+      "Zanahorias",
+      "Tomate",
+      "Cebollas",
+      "Pimiento",
+      "Aceite de oliva",
+      "Cilantro",
+      "Comino molido",
+      "Cúrcuma"
+    ],
+    "preparation": "Poner las lentejas a cocer con agua, aceite y una pizca de sal. Añadir el resto de verduras picadas y las especias. Cocer al menos media hora o hasta que estén tiernas.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tortilla-francesa": {
+    "name": "Tortilla francesa",
+    "ingredients": [
+      "Huevo",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "atun-encebollado": {
+    "name": "Atún encebollado Nutrimente",
+    "ingredients": [
+      "Atún fresco",
+      "Cebollas",
+      "Aceite de oliva",
+      "Laurel",
+      "Nuez moscada",
+      "Vino blanco",
+      "Pimienta"
+    ],
+    "preparation": "Cortar la cebolla en juliana y dorarla en una sartén con un poco de aceite. Cocinar a fuego medio bajo para que vaya pochándose, añadir un chorrito de vino blanco y reducir el alcohol. Incorporar el atún, condimentar con sal, pimienta y nuez moscada y cocinar vuelta y vuelta.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tortilla-calabacin": {
+    "name": "Tortilla de calabacín",
+    "ingredients": [
+      "Huevo",
+      "Calabacín",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "arroz-pollo-calabacin-curry": {
+    "name": "Arroz integral con pollo, calabacín y curry",
+    "ingredients": [
+      "Pollo - pechuga",
+      "Calabacín",
+      "Arroz integral",
+      "Cebollas",
+      "Aceite de oliva",
+      "Curry",
+      "Comino",
+      "Jengibre"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "ensalada-calabacin-salmon": {
+    "name": "Ensalada de calabacín y salmón",
+    "ingredients": [
+      "Calabacín",
+      "Queso de Burgos",
+      "Salmón ahumado",
+      "Nueces",
+      "Canónigos",
+      "Aceite de oliva",
+      "Vinagre"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "brocoli-esparragado": {
+    "name": "Brócoli esparragado",
+    "ingredients": [
+      "Brócoli",
+      "Aceite de oliva",
+      "Pimentón",
+      "Ajo"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "bacalao-plancha": {
+    "name": "Bacalao a la plancha",
+    "ingredients": [
+      "Bacalao fresco",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "pure-verduras": {
+    "name": "Puré de verduras",
+    "ingredients": [
+      "Calabacín",
+      "Zanahorias",
+      "Patatas",
+      "Cebollas",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "gulas-setas": {
+    "name": "Gulas salteadas con setas",
+    "ingredients": [
+      "Setas",
+      "Gulas",
+      "Aceite de oliva",
+      "Perejil"
+    ],
+    "preparation": "Saltear las gulas con las setas y añadir perejil.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-canonigos-nueces": {
+    "name": "Ensalada de canónigos y nueces",
+    "ingredients": [
+      "Canónigos",
+      "Nueces",
+      "Tomate",
+      "Zanahorias",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "pulpo-pimenton": {
+    "name": "Pulpo con pimentón",
+    "ingredients": [
+      "Pulpo",
+      "Aceite de oliva",
+      "Pimentón"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-cogollos-tomates": {
+    "name": "Ensalada de cogollos y tomates",
+    "ingredients": [
+      "Cogollos",
+      "Tomate",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "atun-plancha": {
+    "name": "Atún a la plancha",
+    "ingredients": [
+      "Atún fresco",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "salteado-berenjenas-pollo": {
+    "name": "Salteado de berenjenas con pollo Nutrimente",
+    "ingredients": [
+      "Berenjenas",
+      "Pollo - pechuga",
+      "Cebollas",
+      "Pimiento",
+      "Aceite de oliva",
+      "Pimentón",
+      "Cúrcuma",
+      "Orégano"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tosta-sardinas-tomate": {
+    "name": "Tosta de sardinas con tomate en rodajas",
+    "ingredients": [
+      "Sardinas",
+      "Pan integral",
+      "Tomate"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "potaje-alubias-verduras": {
+    "name": "Potaje de alubias con verduras",
+    "ingredients": [
+      "Judías blancas",
+      "Puerros",
+      "Cebollas",
+      "Pimiento",
+      "Zanahorias",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "judias-verdes-huevo-duro": {
+    "name": "Judías verdes con huevo duro",
+    "ingredients": [
+      "Judías verdes",
+      "Huevo duro",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "atun-natural": {
+    "name": "Atún al natural",
+    "ingredients": [
+      "Atún al natural"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "garbanzos-mango": {
+    "name": "Garbanzos con mango Nutrimente",
+    "ingredients": [
+      "Garbanzos",
+      "Mango",
+      "Tomate",
+      "Cebollas",
+      "Pimiento",
+      "Aceite de oliva",
+      "Jengibre",
+      "Comino molido",
+      "Cúrcuma"
+    ],
+    "preparation": "Pochar las verduras unos minutos y, antes de que estén completamente tiernas, añadir los garbanzos cocidos. Añadir las especias y fuego lento. Añadir agua poco a poco para conseguir la consistencia deseada. Por último, añadir el mango troceado cuando se hayan homogeneizado los sabores.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "corazones-alcachofa-salmon-queso": {
+    "name": "Corazones de alcachofas con salmón y queso",
+    "ingredients": [
+      "Alcachofas en lata",
+      "Queso de Burgos",
+      "Salmón ahumado"
+    ],
+    "preparation": "50 g de salmón (1/2 paquete) y 1 tarrina individual de queso Burgos. El eneldo puede perfumar muy bien el plato. No añadir aceite.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-canonigos": {
+    "name": "Ensalada de canónigos",
+    "ingredients": [
+      "Tomate",
+      "Berros",
+      "Zanahorias",
+      "Aceite de oliva",
+      "Vinagre de manzana"
+    ],
+    "preparation": "Picar el tomate y rallar la zanahoria. Añadir a la ensalada y aliñar con una cucharadita de aceite de oliva y vinagre.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "guisantes-choco": {
+    "name": "Guisantes con choco",
+    "ingredients": [
+      "Sepia o choco",
+      "Guisantes frescos o congelados",
+      "Cebollas",
+      "Aceite de oliva"
+    ],
+    "preparation": "Pasar por la plancha la sepia cortada a trozos pequeños. Saltear los guisantes previamente hervidos y la cebolla en una sartén durante varios minutos y servir.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "muslitos-pollo-horno": {
+    "name": "Muslitos de pollo al horno con patata y calabacines",
+    "ingredients": [
+      "Pollo - muslos",
+      "Patatas",
+      "Calabacín",
+      "Aceite de oliva",
+      "Vino blanco",
+      "Orégano"
+    ],
+    "preparation": "Hornear los muslitos de pollo con las hierbas y el vino blanco. Salpimentar.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "gulas-ajillo": {
+    "name": "Gulas al ajillo",
+    "ingredients": [
+      "Gulas",
+      "Aceite de oliva",
+      "Ajo"
+    ],
+    "preparation": "Una vez individual por persona (100 g). Saltear con ajo y una cucharadita de aceite de oliva.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-coleslaw": {
+    "name": "Ensalada Coleslaw",
+    "ingredients": [
+      "Manzanas",
+      "Col",
+      "Zanahorias",
+      "Pepinillos",
+      "Aceite de oliva",
+      "Mostaza de Dijon",
+      "Vinagre de manzana"
+    ],
+    "preparation": "Rallar todo muy fino y condimentar con la salsa vinagreta. Para la salsa: emulsionar una vasito de aceite, vinagre y mostaza.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "salmon-plancha": {
+    "name": "Salmón a la plancha",
+    "ingredients": [
+      "Salmón"
+    ],
+    "preparation": "Poner el salmón con la plancha bien caliente.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "consome": {
+    "name": "Consomé",
+    "ingredients": [
+      "Caldo de carne brick"
+    ],
+    "preparation": "Aunque aquí se indica la opción de brick, se aconseja preferiblemente caldo casero, retirando la grasa con un cazo cuando se enfríe.",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "pavo-pina-plancha": {
+    "name": "Pavo y piña a la plancha Nutrimente",
+    "ingredients": [
+      "Piña natural",
+      "Pavo - pechuga",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hacer a la plancha 2 rodajas gruesas de pavo y vuelta y vuelta, y 3-4 rodajas de piña. Servir todo junto.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-tomate-aguacate": {
+    "name": "Ensalada de tomate y aguacate",
+    "ingredients": [
+      "Tomate",
+      "Aguacate",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "pasta-integral-cebollita-york": {
+    "name": "Pasta integral con cebollita y york",
+    "ingredients": [
+      "Pasta integral",
+      "Cebolla",
+      "Puerros",
+      "Jamón cocido",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hacer un sofrito con los puerros, cebollas y jamón cocido picado. Añadir especias aromáticas al gusto, controlando la sal.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tortilla-esparragos": {
+    "name": "Tortilla de espárragos",
+    "ingredients": [
+      "Huevo",
+      "Espárragos trigueros",
+      "Aceite de oliva"
+    ],
+    "preparation": "Utilizar 1 huevo entero y 1 clara. Aprovechar la yema para otro plato si hay más miembros en casa.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "hamburguesa-cebolla-champinones": {
+    "name": "Hamburguesa casera con cebolla y champiñones",
+    "ingredients": [
+      "Carne picada vacuno",
+      "Champiñones",
+      "Cebollas",
+      "Aceite de oliva"
+    ],
+    "preparation": "Dorar la cebolla y saltear los champiñones. Cocinar la hamburguesa y acompañar.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-mixta-brotes-tiernos": {
+    "name": "Ensalada mixta de brotes tiernos",
+    "ingredients": [
+      "Mezclum de brotes",
+      "Zanahorias",
+      "Tomate",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "estofado-soja": {
+    "name": "Estofado de legumbre de soja",
+    "ingredients": [
+      "Soja",
+      "Cebollas",
+      "Calabacín",
+      "Zanahorias",
+      "Aceite de oliva",
+      "Pimentón",
+      "Cúrcuma",
+      "Jengibre"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "revuelto-ajetes-espinacas-gambas": {
+    "name": "Revuelto de ajetes, espinacas y gambas",
+    "ingredients": [
+      "Ajetes",
+      "Espinacas",
+      "Gambas",
+      "Huevo",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "aliño-pimientos-cebolla": {
+    "name": "Aliño de pimientos asados con cebolla",
+    "ingredients": [
+      "Pimientos",
+      "Cebolla",
+      "Aceite de oliva",
+      "Vinagre de manzana"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "roulades-espinacas-queso-pavo": {
+    "name": "Roulades de espinacas con queso y pavo",
+    "ingredients": [
+      "Espinacas",
+      "Huevo",
+      "Queso fresco",
+      "Pechuga de pavo embutido"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-sencilla": {
+    "name": "Ensalada sencilla",
+    "ingredients": [
+      "Canónigos",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "combo-lenguado-brocoli-couscous": {
+    "name": "Combinación de lenguado, brócoli y couscous",
+    "ingredients": [
+      "Lenguado",
+      "Brócoli",
+      "Couscous",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "risotto-quinoa-calabaza": {
+    "name": "Risotto de quinoa y calabaza Nutrimente",
+    "ingredients": [
+      "Calabaza",
+      "Verduras",
+      "Quinoa",
+      "Cebolla",
+      "Aceite de oliva",
+      "Perejil"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "ensalada-tropical": {
+    "name": "Ensalada tropical",
+    "ingredients": [
+      "Piña natural",
+      "Tomate",
+      "Gambas",
+      "Canónigos",
+      "Maíz",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "fabada-pulpo": {
+    "name": "Fabada con pulpo Nutrimente",
+    "ingredients": [
+      "Pulpo",
+      "Judías blancas",
+      "Cebolla",
+      "Pimiento",
+      "Aceite de oliva",
+      "Pimentón"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "calabacines-oregano": {
+    "name": "Calabacines con orégano",
+    "ingredients": [
+      "Calabacín",
+      "Aceite de oliva",
+      "Ajo"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "pollo-soja-naranja-miel": {
+    "name": "Pollo en salsa de soja, naranja y miel",
+    "ingredients": [
+      "Pollo - pechuga",
+      "Zumo de naranja",
+      "Salsa de soja",
+      "Miel",
+      "Aceite de oliva",
+      "Vinagre balsámico"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "pure-brocoli-zanahoria": {
+    "name": "Puré de brócoli y zanahoria",
+    "ingredients": [
+      "Brócoli",
+      "Zanahorias",
+      "Cebolla",
+      "Aceite de oliva",
+      "Leche desnatada",
+      "Pimienta"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "ensalada-canonigos-pera-avellanas": {
+    "name": "Ensalada de canónigos con pera y avellanas",
+    "ingredients": [
+      "Pera",
+      "Canónigos",
+      "Avellanas",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "ensalada-niza": {
+    "name": "Ensalada de Niza",
+    "ingredients": [
+      "Atún",
+      "Huevo duro",
+      "Tomate",
+      "Judías verdes",
+      "Patata",
+      "Canónigos",
+      "Aceitunas",
+      "Aceite de oliva",
+      "Vinagre"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-alubias-pavo-judias-tomate": {
+    "name": "Ensalada de alubias con pavo, judías verdes y tomate",
+    "ingredients": [
+      "Alubias",
+      "Pechuga de pavo embutido",
+      "Pimiento",
+      "Judías verdes",
+      "Tomate",
+      "Aceite de oliva",
+      "Vinagre"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "crema-calabaza-setas-huevo-poche": {
+    "name": "Crema de calabaza con setas al ajillo y huevo poché",
+    "ingredients": [
+      "Calabaza amarilla",
+      "Patata",
+      "Setas",
+      "Huevo",
+      "Puerros",
+      "Zanahorias",
+      "Aceite de oliva",
+      "Ajo",
+      "Perejil"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "salmon-espinacas-salsa-yogur": {
+    "name": "Salmón en lecho de espinacas y salsa de yogur",
+    "ingredients": [
+      "Salmón",
+      "Espinacas",
+      "Yogur natural",
+      "Pimiento",
+      "Hierbas aromáticas"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "couscous-pollo-verduras": {
+    "name": "Couscous con pollo y verduras Nutrimente",
+    "ingredients": [
+      "Pollo - pechuga",
+      "Calabacín",
+      "Sémola de couscous",
+      "Zanahorias",
+      "Pimiento",
+      "Aceite de oliva",
+      "Cúrcuma",
+      "Comino",
+      "Jengibre"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tosta-gulas-rucula": {
+    "name": "Tosta de gulas y rúcula",
+    "ingredients": [
+      "Gulas",
+      "Pan integral",
+      "Rúcula",
+      "Ajo"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "habas-jamon": {
+    "name": "Habas salteadas con jamón",
+    "ingredients": [
+      "Habas",
+      "Cebollas",
+      "Jamón",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "salteado-berenjenas-calabacines": {
+    "name": "Salteado de berenjenas y calabacines",
+    "ingredients": [
+      "Calabacín",
+      "Berenjena",
+      "Pimiento",
+      "Cebollas",
+      "Aceite de oliva",
+      "Ajo",
+      "Pimentón"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "pollo-curry": {
+    "name": "Pollo al curry",
+    "ingredients": [
+      "Pollo - pechuga",
+      "Calabacín",
+      "Cebollas",
+      "Leche evaporada",
+      "Aceite de oliva",
+      "Curry",
+      "Comino",
+      "Jengibre",
+      "Pimentón"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "trucha-rellena-setas": {
+    "name": "Trucha rellena de setas",
+    "ingredients": [
+      "Trucha",
+      "Setas",
+      "Aceite de oliva",
+      "Vino blanco",
+      "Zanahoria"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "tartar-remolacha-aguacate": {
+    "name": "Tartar de remolacha y aguacate",
+    "ingredients": [
+      "Remolacha",
+      "Aguacate",
+      "Salmón ahumado",
+      "Cebolla",
+      "Vinagre balsámico",
+      "Zanahoria"
+    ],
+    "preparation": "",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "ensalada-california": {
+    "name": "Ensalada California",
+    "ingredients": [
+      "Canónigos",
+      "Aguacate",
+      "Piña",
+      "Jamón cocido",
+      "Tomate",
+      "Zanahoria",
+      "Vinagre balsámico",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "revuelto-ajetes-trigueros-piquillo": {
+    "name": "Revuelto de ajetes, trigueros y piquillo",
+    "ingredients": [
+      "Huevo",
+      "Ajetes",
+      "Espárragos trigueros",
+      "Pimientos del piquillo",
+      "Aceite de oliva"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  }
+}

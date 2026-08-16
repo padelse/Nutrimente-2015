@@ -1,0 +1,473 @@
+{
+  "week-1": {
+    "id": "week-1",
+    "name": "Semana 1",
+    "description": "Plan nutricional del documento original.",
+    "days": [
+      {
+        "day": 1,
+        "name": "Lunes",
+        "comida": [
+          "aliño-tomates",
+          "lentejas-estofadas"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "tortilla-francesa"
+        ]
+      },
+      {
+        "day": 2,
+        "name": "Martes",
+        "comida": [
+          "arroz-integral",
+          "salteado-verduras-salmon"
+        ],
+        "cena": [
+          "crema-verduras",
+          "revuelto-setas"
+        ]
+      },
+      {
+        "day": 3,
+        "name": "Miércoles",
+        "comida": [
+          "aliño-tomates",
+          "macarrones-integrales-verduras"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "ensalada-espinacas-gulas"
+        ]
+      },
+      {
+        "day": 4,
+        "name": "Jueves",
+        "comida": [
+          "parrillada-verduras-romero",
+          "merluza-plancha"
+        ],
+        "cena": [
+          "pure-calabaza",
+          "hamburguesa-ternera"
+        ]
+      },
+      {
+        "day": 5,
+        "name": "Viernes",
+        "comida": [],
+        "cena": [
+          "ensalada-mixta-atun",
+          "mejillones-marinera"
+        ]
+      },
+      {
+        "day": 6,
+        "name": "Sábado",
+        "comida": [
+          "ensalada-brotes-tiernos",
+          "pez-espada-plancha"
+        ],
+        "cena": []
+      },
+      {
+        "day": 7,
+        "name": "Domingo",
+        "comida": [
+          "arroz-integral",
+          "wok-pollo-verduras"
+        ],
+        "cena": [
+          "crema-calabacin",
+          "picoteo-embutido-queso"
+        ]
+      }
+    ]
+  },
+  "week-2": {
+    "id": "week-2",
+    "name": "Semana 2",
+    "description": "Plan nutricional del documento original.",
+    "days": [
+      {
+        "day": 1,
+        "name": "Lunes",
+        "comida": [
+          "aliño-tomates",
+          "potaje-alubias-verduras"
+        ],
+        "cena": [
+          "judias-verdes-huevo-duro",
+          "atun-natural"
+        ]
+      },
+      {
+        "day": 2,
+        "name": "Martes",
+        "comida": [
+          "parrillada-verduras-romero",
+          "atun-encebollado"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "tortilla-calabacin"
+        ]
+      },
+      {
+        "day": 3,
+        "name": "Miércoles",
+        "comida": [
+          "aliño-tomates",
+          "arroz-pollo-calabacin-curry"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "ensalada-calabacin-salmon"
+        ]
+      },
+      {
+        "day": 4,
+        "name": "Jueves",
+        "comida": [
+          "brocoli-esparragado",
+          "bacalao-plancha"
+        ],
+        "cena": [
+          "pure-verduras",
+          "gulas-setas"
+        ]
+      },
+      {
+        "day": 5,
+        "name": "Viernes",
+        "comida": [],
+        "cena": [
+          "ensalada-canonigos-nueces",
+          "pulpo-pimenton"
+        ]
+      },
+      {
+        "day": 6,
+        "name": "Sábado",
+        "comida": [
+          "ensalada-cogollos-tomates",
+          "atun-plancha"
+        ],
+        "cena": []
+      },
+      {
+        "day": 7,
+        "name": "Domingo",
+        "comida": [
+          "arroz-integral",
+          "salteado-berenjenas-pollo"
+        ],
+        "cena": [
+          "pure-verduras",
+          "tosta-sardinas-tomate"
+        ]
+      }
+    ]
+  },
+  "week-3": {
+    "id": "week-3",
+    "name": "Semana 3",
+    "description": "Plan nutricional del documento original.",
+    "days": [
+      {
+        "day": 1,
+        "name": "Lunes",
+        "comida": [
+          "aliño-tomates",
+          "garbanzos-mango"
+        ],
+        "cena": [
+          "pure-verduras",
+          "corazones-alcachofa-salmon-queso"
+        ]
+      },
+      {
+        "day": 2,
+        "name": "Martes",
+        "comida": [
+          "ensalada-canonigos",
+          "guisantes-choco"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "revuelto-setas"
+        ]
+      },
+      {
+        "day": 3,
+        "name": "Miércoles",
+        "comida": [
+          "ensalada-canonigos",
+          "muslitos-pollo-horno"
+        ],
+        "cena": [
+          "pure-verduras",
+          "gulas-ajillo"
+        ]
+      },
+      {
+        "day": 4,
+        "name": "Jueves",
+        "comida": [
+          "ensalada-coleslaw",
+          "salmon-plancha"
+        ],
+        "cena": [
+          "consome",
+          "pavo-pina-plancha"
+        ]
+      },
+      {
+        "day": 5,
+        "name": "Viernes",
+        "comida": [],
+        "cena": [
+          "ensalada-cogollos-tomates",
+          "hamburguesa-cebolla-champinones"
+        ]
+      },
+      {
+        "day": 6,
+        "name": "Sábado",
+        "comida": [
+          "ensalada-tomate-aguacate",
+          "bacalao-plancha"
+        ],
+        "cena": []
+      },
+      {
+        "day": 7,
+        "name": "Domingo",
+        "comida": [
+          "ensalada-canonigos",
+          "pasta-integral-cebollita-york"
+        ],
+        "cena": [
+          "pure-verduras",
+          "tortilla-esparragos"
+        ]
+      }
+    ]
+  },
+  "week-4": {
+    "id": "week-4",
+    "name": "Semana 4",
+    "description": "Plan nutricional del documento original.",
+    "days": [
+      {
+        "day": 1,
+        "name": "Lunes",
+        "comida": [
+          "ensalada-canonigos",
+          "fabada-pulpo"
+        ],
+        "cena": [
+          "aliño-tomates",
+          "tortilla-esparragos"
+        ]
+      },
+      {
+        "day": 2,
+        "name": "Martes",
+        "comida": [
+          "calabacines-oregano",
+          "pollo-soja-naranja-miel"
+        ],
+        "cena": [
+          "pure-brocoli-zanahoria",
+          "atun-plancha"
+        ]
+      },
+      {
+        "day": 3,
+        "name": "Miércoles",
+        "comida": [
+          "ensalada-canonigos-pera-avellanas",
+          "pez-espada-plancha"
+        ],
+        "cena": [
+          "consome",
+          "ensalada-niza"
+        ]
+      },
+      {
+        "day": 4,
+        "name": "Jueves",
+        "comida": [
+          "ensalada-mixta-brotes-tiernos",
+          "estofado-soja"
+        ],
+        "cena": [
+          "pure-verduras",
+          "revuelto-ajetes-espinacas-gambas"
+        ]
+      },
+      {
+        "day": 5,
+        "name": "Viernes",
+        "comida": [],
+        "cena": [
+          "aliño-pimientos-cebolla",
+          "roulades-espinacas-queso-pavo"
+        ]
+      },
+      {
+        "day": 6,
+        "name": "Sábado",
+        "comida": [
+          "ensalada-sencilla",
+          "combo-lenguado-brocoli-couscous"
+        ],
+        "cena": []
+      },
+      {
+        "day": 7,
+        "name": "Domingo",
+        "comida": [
+          "aliño-tomates",
+          "risotto-quinoa-calabaza"
+        ],
+        "cena": [
+          "consome",
+          "ensalada-tropical"
+        ]
+      }
+    ]
+  },
+  "week-5": {
+    "id": "week-5",
+    "name": "Semana 5",
+    "description": "Plan nutricional del documento original.",
+    "days": [
+      {
+        "day": 1,
+        "name": "Lunes",
+        "comida": [
+          "ensalada-canonigos",
+          "habas-jamon"
+        ],
+        "cena": [
+          "aliño-tomates",
+          "revuelto-ajetes-trigueros-piquillo"
+        ]
+      },
+      {
+        "day": 2,
+        "name": "Martes",
+        "comida": [
+          "salteado-berenjenas-calabacines",
+          "pollo-curry"
+        ],
+        "cena": [
+          "pure-verduras",
+          "trucha-rellena-setas"
+        ]
+      },
+      {
+        "day": 3,
+        "name": "Miércoles",
+        "comida": [
+          "tartar-remolacha-aguacate",
+          "bacalao-plancha"
+        ],
+        "cena": [
+          "consome",
+          "ensalada-california"
+        ]
+      },
+      {
+        "day": 4,
+        "name": "Jueves",
+        "comida": [
+          "ensalada-alubias-pavo-judias-tomate"
+        ],
+        "cena": [
+          "crema-calabaza-setas-huevo-poche"
+        ]
+      },
+      {
+        "day": 5,
+        "name": "Viernes",
+        "comida": [],
+        "cena": [
+          "aliño-pimientos-cebolla",
+          "roulades-espinacas-queso-pavo"
+        ]
+      },
+      {
+        "day": 6,
+        "name": "Sábado",
+        "comida": [
+          "salmon-espinacas-salsa-yogur"
+        ],
+        "cena": []
+      },
+      {
+        "day": 7,
+        "name": "Domingo",
+        "comida": [
+          "aliño-tomates",
+          "couscous-pollo-verduras"
+        ],
+        "cena": [
+          "consome",
+          "tosta-gulas-rucula"
+        ]
+      }
+    ]
+  },
+  "week-6": {
+    "id": "week-6",
+    "name": "Semana 6",
+    "description": "Plan nutricional del documento original.",
+    "days": [
+      {
+        "day": 1,
+        "name": "Lunes",
+        "comida": [],
+        "cena": []
+      },
+      {
+        "day": 2,
+        "name": "Martes",
+        "comida": [],
+        "cena": []
+      },
+      {
+        "day": 3,
+        "name": "Miércoles",
+        "comida": [],
+        "cena": []
+      },
+      {
+        "day": 4,
+        "name": "Jueves",
+        "comida": [],
+        "cena": []
+      },
+      {
+        "day": 5,
+        "name": "Viernes",
+        "comida": [],
+        "cena": []
+      },
+      {
+        "day": 6,
+        "name": "Sábado",
+        "comida": [],
+        "cena": []
+      },
+      {
+        "day": 7,
+        "name": "Domingo",
+        "comida": [],
+        "cena": []
+      }
+    ]
+  }
+}
