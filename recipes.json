@@ -1090,5 +1090,220 @@
     "groups": [
       "cena-principal"
     ]
+  },
+  "lentejas-verduras": {
+    "name": "Lentejas con verduras Nutrimente",
+    "ingredients": [
+      "Lentejas",
+      "Zanahorias",
+      "Tomate",
+      "Cebollas",
+      "Pimiento",
+      "Aceite de oliva",
+      "Cilantro",
+      "Cúrcuma",
+      "Comino molido"
+    ],
+    "preparation": "Poner las lentejas a cocer con agua, el aceite y una pizca de sal. Añadir el resto de verduras picaditas y las especias. Cocer al menos durante media hora o hasta que estén tiernas.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tortilla-patata-ligerita": {
+    "name": "Tortilla de patata ligerita Nutrimente",
+    "ingredients": [
+      "Patatas",
+      "Huevo",
+      "Cebollas",
+      "Aceite de oliva"
+    ],
+    "preparation": "Cocer 1 patata mediana y media cebolla en agua. Una vez estén listas, las troceamos e incorporamos el huevo y medio, ajustamos de sal y vertemos el contenido en la sartén con unas gotas de aceite. Cocinamos como si fuera una tortilla de patata convencional con la precaución de que esta es un poco menos consistente.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "hamburguesa-espinaca-salmon": {
+    "name": "Hamburguesa de espinaca y salmón (SF)",
+    "ingredients": [
+      "Salmón",
+      "Espinacas congeladas",
+      "Aceite de oliva",
+      "Harina de Maíz"
+    ],
+    "preparation": "En un bol o plato desmenuzar el salmón cocinado. Añadir las espinacas bien escurridas (quedan como una bola) y hacerlas trocitos como desmenuzando. Añadir sal y mezclar todo bien. Divide la mezcla en dos. Añade una cucharada de maizena a cada montón de masa y mezcla bien hasta que se integre por completo. Ve incorporando unas gotas de agua para que la mezcla se hidrate. El agua y la maizena hacen una mezcla que mantiene la forma de la hamburguesa al enfriarse. Con las manos húmedas, humedece las dos caras de la hamburguesa y envuélvela en papel film. Las puedes guardar en nevera o congelar.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "guarnicion-couscous": {
+    "name": "Guarnición de couscous",
+    "ingredients": [
+      "Sémola de trigo",
+      "Aceite de oliva"
+    ],
+    "preparation": "Para hervir la sémola de trigo: Misma cantidad de sémola que de agua. Truco: Un vaso lleno de agua menos un dedo y 1 vaso lleno de sémola. Hervir el agua con sal, cuando llegue a ebullición, apagar el fuego y añadir la sémola. Remover y tapar unos minutos para que la humedad hinche el grano. Aunque se tape, remover de vez en cuando hasta que el grano se vaya soltando y no esté apelmazado. Si se cocina con vitrocerámica: mantener la olla en la vitro y el calor que conserva la placa permite que el grano de couscous se haga sin quemarse.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "pez-espada-naranja-almendra": {
+    "name": "Pez espada en salsa de naranja y almendra",
+    "ingredients": [
+      "Pez Espada (Emperador)",
+      "Calabacin",
+      "Zumo de naranja natural",
+      "Almendras",
+      "Pimiento",
+      "Cebollas",
+      "Aceite de oliva",
+      "Ajo"
+    ],
+    "preparation": "Sofreír los ajos en el aceite de oliva. Añadir las verduras, las almendras, salpimentar y cocinar unos minutos. Retirar y reservarlas. En la misma sartén cocinar el pez espada unos minutos, y echar el zumo de naranja a fuego alto, para que se consuma. Por último, añadir la verdura a la sartén del pescado, y listo para servir.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "wok-verduras-pollo-fideos-chinos": {
+    "name": "Wok de verduras y pollo con fideos chinos",
+    "ingredients": [
+      "Pollo - pechuga",
+      "Pimiento",
+      "Fideos de arroz",
+      "Zanahorias",
+      "Cebollas",
+      "Calabacin",
+      "Salsa de soja",
+      "Aceite de oliva",
+      "Vino blanco",
+      "Jengibre",
+      "Pimienta"
+    ],
+    "preparation": "Saltear durante unos minutos la cebolla, zanahoria, calabacín, pimiento verde y rojo en una sartén con 1 cucharada de aceite de oliva. Añadir pimienta y jengibre molido, a continuación un chorreoncito pequeño de salsa de soja, y por último, medio vasito de agua. Seguir cocinando hasta reducir el alcohol y añadir por último la pechuga de pollo troceada. Cocinar al menos 15 minutos, hasta que el volumen de la salsa haya disminuido, y el pollo esté cocinado. Mientras tanto, hervir los fideos de arroz o soja en agua durante el tiempo que indique el envase. Servir inmediatamente, pues estos fideos se apelmazan con facilidad. Nota: Es importante que los fideos se hiervan cuando el pollo con la salsa esté prácticamente cocinado, de esta forma, puede servirse enseguida.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "pate-berenjena-tomate-seco": {
+    "name": "Paté de berenjena y tomate seco Nutrimente",
+    "ingredients": [
+      "Berenjenas",
+      "Tomate seco",
+      "Nueces sin cáscara",
+      "Cebollas",
+      "Ajo",
+      "Aceite de oliva"
+    ],
+    "preparation": "Hervir el tomate seco 5 minutos hasta reblandecerlo. Saltear las berenjenas 5 minutos junto con el ajo, cebollas y el tomate. Batir esta mezcla junto con 3 nueces, hasta obtener una crema espesa. Añadir agua según prefieras mayor o menor espesor.",
+    "groups": [
+      "cena-entrante"
+    ]
+  },
+  "tosta-aguacate-tomate-sesamo": {
+    "name": "Tosta de aguacate, tomate y sésamo",
+    "ingredients": [
+      "Aguacate",
+      "Tomate",
+      "Pan Integral",
+      "Sésamo"
+    ],
+    "preparation": "",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "ensalada-alubias-aguacate-anchoas": {
+    "name": "Ensalada de alubias con aguacate y anchoas Nutrimente",
+    "ingredients": [
+      "Alubias Secas",
+      "Aguacate",
+      "Anchoas en aceite",
+      "Aceite de oliva",
+      "Vinagre de manzana"
+    ],
+    "preparation": "Remojar durante la noche las alubias. Cocer con la olla a presión con un poco de sal. Cortar los aguacates en dados gruesos, y mezclar con las alubias cocidas. Aliñar con una cucharada de aceite de oliva y vinagre, añadiendo las anchoas por encima.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "tortilla-berenjena-queso-pimiento": {
+    "name": "Tortilla de berenjena, queso y pimiento",
+    "ingredients": [
+      "Huevo",
+      "Berenjenas",
+      "Queso Mozzarella",
+      "Pimiento",
+      "Cebollas",
+      "Aceite de oliva"
+    ],
+    "preparation": "Lavar la berenjena, cortar en taquitos y colocar en un plato espolvoreadas con una pizca de sal para que suelte el amargor. Mientras sofreír la cebolla y el pimiento rojo bien cortaditos a fuego lento hasta pochar. Una vez pochada la cebolla añadiremos los trozos de berenjena bien escurridos y mezclamos. Cortamos el queso mozzarella en daditos pequeños o pequeñas láminas, batimos los huevos y añadir la verdura sofrita, una pizca de sal y meclar bien. Cocinar en la sartén con el mínimo aceite posible.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "albondigas-pollo-hierbabuena": {
+    "name": "Albóndigas de pollo con hierbabuena",
+    "ingredients": [
+      "Champiñones",
+      "Carne picada pavo y pollo",
+      "Huevo",
+      "Cebollas",
+      "Pan rallado",
+      "Aceite de oliva",
+      "Hierbabuena"
+    ],
+    "preparation": "Amasar la carne picada con el huevo. Luego añadir el ajo, perejil y 2 cucharaditas de pan rallado. Mezclamos todo muy bien hasta conseguir que la masa de las albóndigas sea una mezcla homogénea. Si queda demasiado pegajosa y poco consistente, puedes echar un poquito más pan rallado. Ahora hay que coger porciones de la masa de las albóndigas con una cuchara sopera, y luego hacer bolitas con la mano del tamaño aproximado de una nuez grande. Una vez que tengamos todas las albóndigas formadas, las vamos colocando en una bandeja de horno que conviene que esté forrada con papel de horno para que no se peguen a la bandeja. Introducimos las albóndigas al horno 20 minutos a 180ºC (siempre que las hayas hecho del tamaño indicado. A más tamaño, más tiempo). Acompañar de champiñones salteados.",
+    "groups": [
+      "almuerzo-principal"
+    ]
+  },
+  "ceviche-atun": {
+    "name": "Ceviche de atún",
+    "ingredients": [
+      "Atún fresco",
+      "Cebollas",
+      "Apio",
+      "Pimienta",
+      "Ajo",
+      "Perejil",
+      "Cilantro",
+      "Zumo de limón natural"
+    ],
+    "preparation": "Corta 150 g por persona de atún fresco en dados. Lo vas a macerar fresco, de manera que es mejor que lo hayas congelado previamente. Pica un diente de ajo y media cebolla. Añade a la mezcla dos cucharadas de apio picado y el zumo de una lima. Échalo sobre el atún, sazona con sal y pimienta y deja reposar en el frigorífico durante media hora. Si quieres comer el ceviche con su verdadero sabor tradicional, a la hora de servirlo condiméntalo con cilantro fresco picado, pero ten cuidado, el cilantro tiene un sabor fuerte.",
+    "groups": [
+      "cena-principal"
+    ]
+  },
+  "guisantes-curcuma": {
+    "name": "Guisantes salteados con toque de cúrcuma",
+    "ingredients": [
+      "Guisantes frescos o congelados",
+      "Cebollas",
+      "Zanahorias",
+      "Aceite de oliva",
+      "Cúrcuma",
+      "Curry"
+    ],
+    "preparation": "Saltear la cebolla y la zanahoria en trocitos pequeños en una sartén con el mínimo aceite posible, añadir los guisantes previamente cocidos y condimentar con curry y cúrcuma. Se puede añadir un chorreoncito de vino blanco, o sencillamente medio vaso de agua, para crear consistencia. Seguir cocinando durante 10 minutos más a fuego medio.",
+    "groups": [
+      "almuerzo-entrante"
+    ]
+  },
+  "ensalada-calabaza-vinagreta-tomillo": {
+    "name": "Ensalada de calabaza y vinagreta de tomillo",
+    "ingredients": [
+      "Calabaza",
+      "Rúcula",
+      "Salsa de soja",
+      "Pipas de calabaza",
+      "Sésamo",
+      "Aceite de oliva",
+      "Vinagre Balsámico Módena",
+      "Pimienta",
+      "Tomillo"
+    ],
+    "preparation": "Limpiar la calabaza y cortarla en daditos. Mezclar con el aceite de oliva, vinagre balsámico y la pimienta negra. Hornear sobre papel vegetal en la bandeja de horno unos 20-25 minutos, removiendo a mitad de cocción, hasta que esté tierna. Enfriar. En una ensaladera, colocar la rúcula en el fondo, seguidamente la calabaza, pipas de calabaza y semillas de sésamo. Batir bien la vinagreta (aceite, salsa de soja, unas gotitas de zumo de limón, tomillo y pimienta) y servir.",
+    "groups": [
+      "cena-principal"
+    ]
   }
 }

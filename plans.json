@@ -429,44 +429,79 @@
       {
         "day": 1,
         "name": "Lunes",
-        "comida": [],
-        "cena": []
+        "comida": [
+          "ensalada-alubias-aguacate-anchoas"
+        ],
+        "cena": [
+          "aliño-tomates",
+          "tortilla-berenjena-queso-pimiento"
+        ]
       },
       {
         "day": 2,
         "name": "Martes",
-        "comida": [],
-        "cena": []
+        "comida": [
+          "guarnicion-couscous",
+          "albondigas-pollo-hierbabuena"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "ceviche-atun"
+        ]
       },
       {
         "day": 3,
         "name": "Miércoles",
-        "comida": [],
-        "cena": []
+        "comida": [
+          "guisantes-curcuma",
+          "merluza-plancha"
+        ],
+        "cena": [
+          "sopa-fideos",
+          "ensalada-calabaza-vinagreta-tomillo"
+        ]
       },
       {
         "day": 4,
         "name": "Jueves",
-        "comida": [],
-        "cena": []
+        "comida": [
+          "ensalada-canonigos",
+          "lentejas-verduras"
+        ],
+        "cena": [
+          "aliño-pimientos-cebolla",
+          "tortilla-patata-ligerita"
+        ]
       },
       {
         "day": 5,
         "name": "Viernes",
         "comida": [],
-        "cena": []
+        "cena": [
+          "ensalada-mixta-brotes-tiernos",
+          "hamburguesa-espinaca-salmon"
+        ]
       },
       {
         "day": 6,
         "name": "Sábado",
-        "comida": [],
+        "comida": [
+          "guarnicion-couscous",
+          "pez-espada-naranja-almendra"
+        ],
         "cena": []
       },
       {
         "day": 7,
         "name": "Domingo",
-        "comida": [],
-        "cena": []
+        "comida": [
+          "aliño-tomates",
+          "wok-verduras-pollo-fideos-chinos"
+        ],
+        "cena": [
+          "pate-berenjena-tomate-seco",
+          "tosta-aguacate-tomate-sesamo"
+        ]
       }
     ]
   }
