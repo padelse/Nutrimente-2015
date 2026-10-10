@@ -17,7 +17,7 @@
     "ingredients": [
       "Arroz integral"
     ],
-    "preparation": "",
+    "preparation": "Cocer el arroz integral en agua siguiendo las indicaciones del envase hasta que esté tierno. Escurrir si es necesario y servir.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -136,7 +136,7 @@
       "Merluza",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cocinar la merluza a la plancha con una cantidad moderada de aceite de oliva y sal al gusto.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -174,7 +174,7 @@
       "Atún",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Lavar y escurrir las lechugas. Cortar el tomate, rallar la zanahoria y añadir el atún escurrido. Aliñar con aceite de oliva.",
     "groups": [
       "cena-entrante"
     ]
@@ -184,7 +184,7 @@
     "ingredients": [
       "Mejillones"
     ],
-    "preparation": "",
+    "preparation": "Limpiar los mejillones y cocerlos en una olla tapada con un poco de agua hasta que se abran. Desechar los que permanezcan cerrados.",
     "groups": [
       "cena-principal"
     ]
@@ -278,7 +278,7 @@
       "Huevo",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Batir el huevo y cuajarlo en una sartén antiadherente con una pequeña cantidad de aceite de oliva.",
     "groups": [
       "cena-principal"
     ]
@@ -306,7 +306,7 @@
       "Calabacín",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cortar el calabacín en láminas finas y cocinarlo en una sartén con un poco de aceite. Batir el huevo, mezclar con el calabacín y cuajar la tortilla por ambos lados.",
     "groups": [
       "cena-principal"
     ]
@@ -323,7 +323,7 @@
       "Comino",
       "Jengibre"
     ],
-    "preparation": "",
+    "preparation": "Cocer el arroz integral. Trocear el pollo, el calabacín y la cebolla. Saltear la cebolla y el pollo con un poco de aceite; añadir el calabacín y condimentar con curry, comino y jengibre. Cocinar hasta que el pollo esté hecho y servir con el arroz.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -339,7 +339,7 @@
       "Aceite de oliva",
       "Vinagre"
     ],
-    "preparation": "",
+    "preparation": "Cortar el calabacín en láminas finas. Disponerlo con los canónigos, el queso de Burgos, el salmón ahumado y las nueces. Aliñar con aceite de oliva y vinagre.",
     "groups": [
       "cena-principal"
     ]
@@ -352,7 +352,7 @@
       "Pimentón",
       "Ajo"
     ],
-    "preparation": "",
+    "preparation": "Cocer el brócoli hasta que esté tierno. Dorar el ajo picado en un poco de aceite, retirar del fuego y añadir el pimentón. Mezclar con el brócoli y servir.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -363,7 +363,7 @@
       "Bacalao fresco",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cocinar el bacalao fresco a la plancha con media cucharadita de aceite de oliva. Se pueden añadir hierbas aromáticas al gusto.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -373,11 +373,11 @@
     "ingredients": [
       "Calabacín",
       "Zanahorias",
-      "Patatas",
+      "Puerros",
       "Cebollas",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cocer el calabacín, las zanahorias, los puerros y la cebolla con poca agua hasta que estén tiernos. Triturar con parte del agua de cocción y añadir el aceite de oliva. No lleva patata.",
     "groups": [
       "cena-entrante"
     ]
@@ -404,7 +404,7 @@
       "Zanahorias",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Lavar y escurrir los canónigos. Añadir tomate troceado y zanahoria rallada. Aliñar con aceite de oliva y completar con las nueces.",
     "groups": [
       "cena-entrante"
     ]
@@ -416,7 +416,7 @@
       "Aceite de oliva",
       "Pimentón"
     ],
-    "preparation": "",
+    "preparation": "Cortar el pulpo cocido en rodajas, aliñar con aceite de oliva y espolvorear pimentón.",
     "groups": [
       "cena-principal"
     ]
@@ -428,7 +428,7 @@
       "Tomate",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Lavar y cortar los cogollos. Añadir el tomate troceado y aliñar con aceite de oliva.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -439,7 +439,7 @@
       "Atún fresco",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cocinar el atún fresco a la plancha, con una pequeña cantidad de aceite de oliva y sal al gusto.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -456,7 +456,7 @@
       "Cúrcuma",
       "Orégano"
     ],
-    "preparation": "",
+    "preparation": "Cortar las berenjenas, el pollo, la cebolla y el pimiento en trozos. Saltear las verduras con un poco de aceite; añadir el pollo y las especias y cocinar hasta que esté hecho.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -468,7 +468,7 @@
       "Pan integral",
       "Tomate"
     ],
-    "preparation": "",
+    "preparation": "Tostar el pan integral, colocar encima el tomate cortado en rodajas y las sardinas escurridas y servir.",
     "groups": [
       "cena-principal"
     ]
@@ -483,7 +483,7 @@
       "Zanahorias",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Dejar las alubias en remojo y cocerlas hasta que empiecen a ablandarse. Añadir puerro, cebolla, pimiento y zanahoria troceados y un poco de aceite; cocinar hasta que las alubias y las verduras estén tiernas.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -495,7 +495,7 @@
       "Huevo duro",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cocer las judías verdes hasta que estén tiernas y el huevo hasta que esté duro. Escurrir las judías, pelar y trocear el huevo y servir juntos con aceite de oliva.",
     "groups": [
       "cena-entrante"
     ]
@@ -505,7 +505,7 @@
     "ingredients": [
       "Atún al natural"
     ],
-    "preparation": "",
+    "preparation": "Escurrir el atún al natural y servir como acompañamiento o sobre una ensalada.",
     "groups": [
       "cena-principal"
     ]
@@ -649,7 +649,7 @@
       "Aguacate",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cortar el tomate y el aguacate en trozos, disponerlos en un plato y aliñar con aceite de oliva.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -701,7 +701,7 @@
       "Tomate",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Lavar y escurrir los brotes tiernos. Añadir la zanahoria rallada y el tomate troceado y aliñar con aceite de oliva.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -718,7 +718,7 @@
       "Cúrcuma",
       "Jengibre"
     ],
-    "preparation": "",
+    "preparation": "Cocer la soja según las indicaciones del envase. Rehogar las verduras troceadas con un poco de aceite, añadir la soja, las especias y un poco de agua y cocinar a fuego suave hasta que todo esté tierno.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -732,7 +732,7 @@
       "Huevo",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Saltear los ajetes troceados con un poco de aceite. Añadir las gambas y las espinacas y cocinar hasta que estén hechas. Incorporar el huevo batido y remover hasta que cuaje.",
     "groups": [
       "cena-principal"
     ]
@@ -745,7 +745,7 @@
       "Aceite de oliva",
       "Vinagre de manzana"
     ],
-    "preparation": "",
+    "preparation": "Asar los pimientos hasta que estén tiernos. Pelarlos, cortarlos en tiras y mezclarlos con la cebolla. Aliñar con aceite de oliva y vinagre de manzana.",
     "groups": [
       "cena-entrante"
     ]
@@ -758,7 +758,7 @@
       "Queso fresco",
       "Pechuga de pavo embutido"
     ],
-    "preparation": "",
+    "preparation": "Cocinar las espinacas y escurrirlas bien. Mezclarlas con el huevo batido y cuajar una tortilla fina. Rellenar con queso fresco y pechuga de pavo, enrollar y cortar en porciones.",
     "groups": [
       "cena-principal"
     ]
@@ -769,7 +769,7 @@
       "Canónigos",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Lavar y escurrir los canónigos y aliñar con una cantidad moderada de aceite de oliva.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -782,7 +782,7 @@
       "Couscous",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cocinar el lenguado a la plancha con un poco de aceite. Cocer el brócoli y preparar el couscous siguiendo las indicaciones del envase. Servir todo junto.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -797,7 +797,7 @@
       "Aceite de oliva",
       "Perejil"
     ],
-    "preparation": "",
+    "preparation": "Picar la cebolla y trocear la calabaza y las demás verduras. Rehogar la cebolla con aceite, añadir la quinoa lavada y las verduras y agregar agua o caldo poco a poco hasta que la quinoa esté tierna. Terminar con perejil.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -812,7 +812,7 @@
       "Maíz",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Cortar la piña y el tomate. Mezclar con los canónigos, las gambas cocidas y el maíz. Aliñar con aceite de oliva.",
     "groups": [
       "cena-principal"
     ]
@@ -827,7 +827,7 @@
       "Aceite de oliva",
       "Pimentón"
     ],
-    "preparation": "",
+    "preparation": "Cocer las judías blancas previamente remojadas (o utilizar judías cocidas). Rehogar cebolla y pimiento con un poco de aceite, añadir el pulpo troceado, las judías y el pimentón y cocinar unos minutos.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -839,7 +839,7 @@
       "Aceite de oliva",
       "Ajo"
     ],
-    "preparation": "",
+    "preparation": "Cortar el calabacín en rodajas. Saltear con ajo picado y un poco de aceite hasta que esté tierno; añadir orégano y servir.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -854,7 +854,7 @@
       "Aceite de oliva",
       "Vinagre balsámico"
     ],
-    "preparation": "",
+    "preparation": "Trocear el pollo. Mezclar zumo de naranja, salsa de soja, miel y unas gotas de vinagre balsámico. Dorar el pollo con un poco de aceite, añadir la salsa y cocinar hasta que esté hecho y la salsa haya reducido.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -869,7 +869,7 @@
       "Leche desnatada",
       "Pimienta"
     ],
-    "preparation": "",
+    "preparation": "Trocear el brócoli, las zanahorias y la cebolla y cocer hasta que estén tiernos. Triturar con parte del agua de cocción y la leche desnatada hasta obtener una crema; añadir pimienta.",
     "groups": [
       "cena-entrante"
     ]
@@ -882,7 +882,7 @@
       "Avellanas",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Lavar y escurrir los canónigos. Cortar la pera en láminas, añadir las avellanas y aliñar con aceite de oliva.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -900,7 +900,7 @@
       "Aceite de oliva",
       "Vinagre"
     ],
-    "preparation": "",
+    "preparation": "Cocer las judías verdes y la patata y hervir el huevo hasta que esté duro. Dejar enfriar, cortar el tomate y mezclar con el atún, las aceitunas, las verduras y el huevo. Aliñar con aceite y vinagre.",
     "groups": [
       "cena-principal"
     ]
@@ -916,7 +916,7 @@
       "Aceite de oliva",
       "Vinagre"
     ],
-    "preparation": "",
+    "preparation": "Cocer las alubias y las judías verdes (o utilizar alubias ya cocidas). Dejar enfriar y mezclar con el pavo, el pimiento y el tomate troceados. Aliñar con aceite y vinagre.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -934,7 +934,7 @@
       "Ajo",
       "Perejil"
     ],
-    "preparation": "",
+    "preparation": "Cocer la calabaza, la patata, el puerro y la zanahoria hasta que estén tiernos y triturar para obtener una crema. Saltear las setas con ajo y perejil. Escalfar el huevo y servirlo sobre la crema con las setas.",
     "groups": [
       "cena-entrante"
     ]
@@ -948,7 +948,7 @@
       "Pimiento",
       "Hierbas aromáticas"
     ],
-    "preparation": "",
+    "preparation": "Cocinar el salmón a la plancha. Saltear las espinacas y el pimiento hasta que estén tiernos. Mezclar el yogur con las hierbas aromáticas y servir como salsa junto al salmón y las verduras.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -966,7 +966,7 @@
       "Comino",
       "Jengibre"
     ],
-    "preparation": "",
+    "preparation": "Preparar el couscous con la misma cantidad de agua, siguiendo las instrucciones del envase. Trocear el pollo y las verduras y saltearlos con un poco de aceite y las especias hasta que el pollo esté hecho. Servir sobre el couscous.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -979,7 +979,7 @@
       "Rúcula",
       "Ajo"
     ],
-    "preparation": "",
+    "preparation": "Saltear las gulas con ajo picado y un poco de aceite. Colocarlas sobre una tostada integral y añadir la rúcula.",
     "groups": [
       "cena-principal"
     ]
@@ -992,7 +992,7 @@
       "Jamón",
       "Aceite de oliva"
     ],
-    "preparation": "",
+    "preparation": "Rehogar las habas previamente cocidas con cebolla, un poco de aceite, ajo, perejil y sal. Añadir el jamón picado durante los últimos minutos y terminar de cocinar.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -1001,14 +1001,15 @@
     "name": "Salteado de berenjenas y calabacines",
     "ingredients": [
       "Calabacín",
-      "Berenjena",
-      "Pimiento",
+      "Berenjenas",
+      "Tomate",
       "Cebollas",
       "Aceite de oliva",
       "Ajo",
-      "Pimentón"
+      "Pimienta",
+      "Albahaca"
     ],
-    "preparation": "",
+    "preparation": "Saltear la cebolla y el ajo picados hasta que se doren. Añadir las rodajas de berenjena y calabacín, y espolvorear con albahaca y pimienta.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -1017,16 +1018,16 @@
     "name": "Pollo al curry",
     "ingredients": [
       "Pollo - pechuga",
-      "Calabacín",
+      "Manzanas",
       "Cebollas",
-      "Leche evaporada",
+      "Leche evaporada Ideal",
       "Aceite de oliva",
       "Curry",
-      "Comino",
-      "Jengibre",
-      "Pimentón"
+      "Nuez moscada",
+      "Ajo",
+      "Pimienta"
     ],
-    "preparation": "",
+    "preparation": "Saltear la cebolla con un poco de aceite. Añadir la manzana troceada y el curry y cocinar unos minutos. Incorporar la leche evaporada y la nuez moscada. Dorar el pollo aparte, añadirlo a la salsa y cocinar hasta que esté hecho.",
     "groups": [
       "almuerzo-principal"
     ]
@@ -1038,9 +1039,9 @@
       "Setas",
       "Aceite de oliva",
       "Vino blanco",
-      "Zanahoria"
+      "Zumo de limón natural"
     ],
-    "preparation": "",
+    "preparation": "Limpiar la trucha, retirar las espinas y abrirla en dos filetes. Salpimentar. Picar las setas y saltearlas con ajo; añadir cebollino y perejil picados. Rellenar un filete con la mezcla, cubrir con el otro, añadir vino blanco y zumo de limón y hornear hasta que esté hecho.",
     "groups": [
       "cena-principal"
     ]
@@ -1050,12 +1051,15 @@
     "ingredients": [
       "Remolacha",
       "Aguacate",
-      "Salmón ahumado",
-      "Cebolla",
-      "Vinagre balsámico",
-      "Zanahoria"
+      "Soja germinada (Brotes)",
+      "Nueces sin cáscara",
+      "Cebollas",
+      "Miel",
+      "Mostaza de Dijon",
+      "Vinagre de manzana",
+      "Zumo de limón natural"
     ],
-    "preparation": "",
+    "preparation": "Cortar la remolacha en cubitos pequeños. Mezclar la cebolla tierna muy picada con la mostaza, el zumo de media lima, sal y pimienta; incorporar a la remolacha y reservar. Machacar el aguacate con el zumo de la otra mitad de la lima, sal y pimienta. Montar capas de remolacha y aguacate y terminar con una capa de remolacha. Adornar con brotes germinados. Para la salsa, picar las nueces y mezclarlas con la miel, el vinagre de manzana y el zumo de limón; servir con el tartar.",
     "groups": [
       "almuerzo-entrante"
     ]
@@ -1063,16 +1067,16 @@
   "ensalada-california": {
     "name": "Ensalada California",
     "ingredients": [
-      "Canónigos",
-      "Aguacate",
-      "Piña",
-      "Jamón cocido",
+      "Mezclum lechugas",
       "Tomate",
-      "Zanahoria",
-      "Vinagre balsámico",
-      "Aceite de oliva"
+      "Nueces sin cáscara",
+      "Jamón cocido",
+      "Miel",
+      "Mostaza de Dijon",
+      "Vinagre de manzana",
+      "Zumo de limón natural"
     ],
-    "preparation": "",
+    "preparation": "Mezclar el mezclum de lechugas con el tomate troceado, las nueces y el jamón cocido. Preparar una vinagreta con mostaza, miel, zumo de limón y vinagre de manzana. La receta original indica no añadir aceite a esta ensalada.",
     "groups": [
       "cena-principal"
     ]
@@ -1082,11 +1086,12 @@
     "ingredients": [
       "Huevo",
       "Ajetes",
+      "Pimiento morrón conserva",
       "Espárragos trigueros",
-      "Pimientos del piquillo",
-      "Aceite de oliva"
+      "Aceite de oliva",
+      "Pimentón molido"
     ],
-    "preparation": "",
+    "preparation": "Saltear los ajetes picados con una cucharada de aceite. Añadir los espárragos trigueros y el pimiento morrón troceados; incorporar el huevo y cocinar el mínimo tiempo necesario para que deje de estar crudo. Salpimentar.",
     "groups": [
       "cena-principal"
     ]
@@ -1206,7 +1211,7 @@
       "Pan Integral",
       "Sésamo"
     ],
-    "preparation": "",
+    "preparation": "Tostar el pan integral. Machacar o laminar el aguacate y colocarlo sobre el pan; añadir el tomate cortado y terminar con semillas de sésamo.",
     "groups": [
       "cena-principal"
     ]
